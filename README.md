@@ -1,1 +1,1 @@
-# iot
+# This is an IoT project.
